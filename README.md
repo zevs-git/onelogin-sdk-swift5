@@ -1,1 +1,0 @@
-# onelogin-sdk-swift5
